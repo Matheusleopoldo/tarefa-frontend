@@ -1,7 +1,7 @@
 import axios from 'axios'
  
 const api = axios.create({
-    baseURL: 'https://backend-matheus.herokuapp.com'
+    baseURL: 'https://Tarefa_Backend.herokuapp.com'
 })
  
 export default api;
